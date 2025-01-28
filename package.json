@@ -1,5 +1,6 @@
 {
   "name": "antenas-nico",
+  "homepage": "https://brianacos.github.io/antenas-nico",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
