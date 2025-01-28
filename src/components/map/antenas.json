@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titulo": "Antena A",
+    "descripcion": "Descripción de la antena A",
+    "coordenadas": [-34.873629, -56.165178],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Antena B",
+    "descripcion": "Descripción de la antena B",
+    "coordenadas": [-34.421169, -57.002538],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Antena C",
+    "descripcion": "Descripción de la antena C",
+    "coordenadas": [-33.893892, -56.224125],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Antena D",
+    "descripcion": "Descripción de la antena D",
+    "coordenadas": [-34.645603, -55.078283],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Antena E",
+    "descripcion": "Descripción de la antena E",
+    "coordenadas": [-30.647295, -57.009684],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Antena F",
+    "descripcion": "Descripción de la antena F",
+    "coordenadas": [-32.852212, -53.572157],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Antena G",
+    "descripcion": "Descripción de la antena G",
+    "coordenadas": [-32.454469, -58.019834],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Antena H laksdm;alsd;lasd;lasd;asmdlksmf masd amsdk np12",
+    "descripcion": "Descripción de la antena Hadskdjn alsd laksnd lkansdn as;nd;as nd;kjnndnfffffffffffjfjfjfjfjfjfjfjfjfjdlksfjl kk djfkjdfkjfjfjfjfkslfksfjoeijdoijeodjje",
+    "coordenadas": [-31.520991, -55.104973],
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG/220px-Antenas_en_el_Castillo_de_Santa_B%C3%A1rbara%2C_Alicante%2C_Espa%C3%B1a%2C_2014-07-04%2C_DD_76.JPG",
+      "https://cdn.pixabay.com/photo/2016/12/04/00/07/aerial-1880873_640.jpg"
+    ]
+  }
+]
