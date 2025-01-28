@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b8abe59.css",
-    "main.js": "/static/js/main.d6c19d12.js",
-    "static/js/488.1383141e.chunk.js": "/static/js/488.1383141e.chunk.js",
-    "static/media/marker_green.png": "/static/media/marker_green.c05bf5e5fcadeac109e4.png",
-    "static/media/marker_blue.png": "/static/media/marker_blue.2c64a2c5eaee591fe6aa.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.2b8abe59.css.map": "/static/css/main.2b8abe59.css.map",
-    "main.d6c19d12.js.map": "/static/js/main.d6c19d12.js.map",
-    "488.1383141e.chunk.js.map": "/static/js/488.1383141e.chunk.js.map"
+    "main.css": "/antenas-nico/static/css/main.2b8abe59.css",
+    "main.js": "/antenas-nico/static/js/main.208a9ea1.js",
+    "static/js/488.1383141e.chunk.js": "/antenas-nico/static/js/488.1383141e.chunk.js",
+    "static/media/marker_green.png": "/antenas-nico/static/media/marker_green.c05bf5e5fcadeac109e4.png",
+    "static/media/marker_blue.png": "/antenas-nico/static/media/marker_blue.2c64a2c5eaee591fe6aa.png",
+    "static/media/logo.svg": "/antenas-nico/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/antenas-nico/index.html",
+    "main.2b8abe59.css.map": "/antenas-nico/static/css/main.2b8abe59.css.map",
+    "main.208a9ea1.js.map": "/antenas-nico/static/js/main.208a9ea1.js.map",
+    "488.1383141e.chunk.js.map": "/antenas-nico/static/js/488.1383141e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b8abe59.css",
-    "static/js/main.d6c19d12.js"
+    "static/js/main.208a9ea1.js"
   ]
 }
